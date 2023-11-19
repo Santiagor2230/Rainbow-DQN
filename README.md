@@ -34,3 +34,10 @@ AdamW
 
 # Loss
 Categorical Cross-entropy Loss + Huber Loss
+
+# Video Result:
+
+
+
+https://github.com/Santiagor2230/Rainbow-DQN/assets/52907423/69d05362-8542-4d12-a146-d9924743aa22
+
